@@ -19,8 +19,8 @@
 
 Смотреть машину и договориться о продаже можем уже сейчас, фактически отдать буду готов ближе к декабрю.
 
-Фото: [1](pics/fabia/1.jpeg), [2](pics/fabia/2.jpeg), [3](pics/fabia/3.jpeg), [4](pics/fabia/4.jpeg), [5](pics/fabia/5.jpeg),
-[6](pics/fabia/6.jpeg), [7](pics/fabia/7.jpeg)
+Фото: [1](https://ibb.co/Xk2s68v), [2](https://ibb.co/vdRdZT6), [3](https://ibb.co/tZ6h98w), [4](https://ibb.co/wsnCLnY), [5](https://ibb.co/V93kw40),
+[6](https://ibb.co/tp8mv9L), [7](https://ibb.co/9b6kKX7)
 
 
 ## Книги
@@ -53,7 +53,7 @@ Swift подробно | 2020 | 400
 
 Название | Состояние | Цена (руб) | Фото | Примечание
 ---|---|---|---|---
-Клавиатура Logitech K800 | как новая | 5000 | [1](pics/k800/1.jpeg), [2](pics/k800/2.jpeg) | Привезена из США, поэтому нет кириллицы. Пользовался мало.
+Клавиатура Logitech K800 | как новая | 5000 | [1](https://ibb.co/xjxfjKg), [2](https://ibb.co/DznvbYN) | Привезена из США, поэтому нет кириллицы. Пользовался мало.
 Ноутбук Samsung RV511 (i3-M380, 4Gb RAM, 250Gb HDD) | для своих лет отличное, батарея слабая | 5000 | | есть VGA, HDMI
 Домашний минисервер (Atom330, 2Gb RAM, 2x2Tb HDD, корпус Thermaltake Element Q, питание - Pico PSU 60W) | работает как часы, но на HDD лучше не рассчитывать | 5000 | | абсолютно бесшумный
 
