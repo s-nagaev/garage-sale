@@ -25,10 +25,8 @@ Django 2 в примерах | 2019 | 400
 Django 2.1 Практика создания веб-сайтов на Python | 2019 | 400
 Django. Практика создания веб-сайтов на Python | 2016 | бесплатно
 Python 3 и PyQt5. Разработка приложений | 2016 | 400
-Twisted из первых рук | 2020 | 400
 Скрапинг веб-сайтов с помощью Python | 2016 | 400
 Elasticsearch, Kibana, Logstash | 2019 | 400
-GraphQL: язык запросов | 2019 | 200
 Android. Сборник рецептов | 2017 | 300
 Аndroid. Программирование для профессионалов. 3-е изд | 2017 | 300
 Swift подробно | 2020 | 400
@@ -42,7 +40,6 @@ Swift подробно | 2020 | 400
 Клавиатура Logitech K800 | как новая | 3500 | [1](https://ibb.co/xjxfjKg), [2](https://ibb.co/DznvbYN) | Привезена из США, поэтому нет кириллицы. Пользовался мало.
 Робот-мойщик окон HOBOT 198 | отличное | 12000 | | полный комплект
 ~~Робот-пылесос Xiaomi~~ | ~~хорошее~~ | ~~3500~~ | [1](https://ibb.co/KjBJLmW) | ~~не молод, но в отличном состоянии. Обслуживается всегда вовремя. Отдать смогу в январе. Перед передачей поставлю свежий фильтр и новые щетки.~~ **Забронирован**
-Колонки 2.1 Edifier S330D | отличное | 5000 | [1](https://ibb.co/7QD980b), [2](https://ibb.co/741ryRQ), [3](https://ibb.co/TbPnt95), [4](https://ibb.co/ym2nHSB) | [Они же в DNS](https://www.dns-shop.ru/product/8d78e4e3860c3330/kolonki-21-edifier-s330d/opinion/)
 ~~Стирально-сушильная машина Candy GVSW40 364TWHC-07~~ | ~~отличное~~ | ~~15000~~ | [1](https://ibb.co/KVf4pkG) | ~~Куплена год назад, гарантия истекла в октябре.~~ [Она же в DNS](https://www.dns-shop.ru/product/9fca6fe400ed3330/stiralno-susilnaa-masina-candy-gvsw40-364twhc-07/). ~~Отдать смогу в январе.~~ **Забронирована**
 ~~Увлажнитель воздуха Xiaomi~~ | ~~отличное~~ | ~~2000~~ | [1](https://ibb.co/NL8wm5r) | ~~Отдать смогу в январе.~~ **Забронирован**
 
@@ -51,10 +48,8 @@ Swift подробно | 2020 | 400
 
 Название | Состояние | Цена (руб) | Фото | Примечание
 ---|---|---|---|---
-Сноуборд Drake GT 163W с креплением Ride L | отличное | 15000 | [1](https://ibb.co/7tcdZn2), [2](https://ibb.co/nQpXPqF), [3](https://ibb.co/9N1VSFb), [4](https://ibb.co/QrVJ0NL), [5](https://ibb.co/9wByNCk) | прокатился всего два раза, потом настал ковидный год :mask:
 Розетки с крышкой | новые | 100/шт | [1](https://ibb.co/17WgtzZ), [2](https://ibb.co/rtVCxQR) | Накупил для ремонта, но ремонт отменяется :slightly_smiling_face:. Не устанавливались, упаковки (кроме одной) не вскрывались.
-Дженга | новая | 750 | [1](https://ibb.co/60d4XMK) | не вскрывалась. [Она же на OZON](https://www.ozon.ru/product/nastolnaya-igra-hasbro-games-dzhenga-22438029/?sh=0BMRTLIn)
 Гантели 5 кг 2 шт| отличное | 1500 | | [они же на OZON](https://www.ozon.ru/product/ganteli-go-do-ok-733-2-sht-po-5-kg-zelenyy-tsvet-180622067/?sh=9IRZFBps). Отдать смогу в январе.
 Мини степпер | отличное | 4000 | | [Он же на OZON](https://www.ozon.ru/product/mini-stepper-atemi-as1720-181541096/?sh=9xV4k68d)
 Накопитель подгузников Angelcare DG7 | идеальное | 500 | | [Он же на OZON](https://www.ozon.ru/product/nakopitel-podguznikov-angelcare-dg7-154789081/?asb=T7IuoQ%252FNhiXa3CTt8H6lFJCQPJ0nGwBJvFVd3QaEmfI%253D&asb2=WXJQaZADosZAV3IZ-W8Cv8HmFiWJBRKF15o_QHUjBlk&keywords=Angelcare&sh=S17EFiOO). Обалденно удобная штука, если использовать родные картриджи: все чисто, никакого запаха. 
-Комплект сменных кассет к накопителю для подгузников Angelcare 3 шт. | новые | 1300 | | [Они же на OZON](https://www.ozon.ru/product/komplekt-smennyh-kasset-k-nakopitelyu-dlya-podguznikov-angelcare-3-sht-ar9003-eu-163166417/?sh=l9GQoMkO) 
+Комплект сменных кассет к накопителю для подгузников Angelcare 3 шт. | новые | 800 | | [Они же на OZON](https://www.ozon.ru/product/komplekt-smennyh-kasset-k-nakopitelyu-dlya-podguznikov-angelcare-3-sht-ar9003-eu-163166417/?sh=l9GQoMkO) 
